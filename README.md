@@ -1,6 +1,6 @@
 # Minimart Managemnet
 
-Simulating a simplified management system for a minimart using Python, PyQt5 for GUI and MySQL for database. 
+Simulating a simplified management system for a minimart using Python, PyQt5 for GUI and MySQL for database. (See branch **PySimpleGUI-version** for PySimpleGUI as GUI)
 Minimart Management System Simulation
 
 ## Description
