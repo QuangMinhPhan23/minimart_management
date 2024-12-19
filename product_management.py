@@ -4,7 +4,7 @@ import mysql.connector
 server = '127.0.0.1'
 db = 'minimart'
 username = 'root'
-pwd = '27052306aA$'
+pwd = ''
 conn = mysql.connector.connect(host=server, database=db, user=username, password=pwd, use_unicode=True, charset="utf8")
 cur = conn.cursor()
 
