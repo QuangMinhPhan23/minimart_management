@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS `login` (
 --
 
 INSERT INTO `login` (`ordinal_num`, `account_name`, `password`) VALUES
-(1, 'quangminh', '123456');
+(1, 'anyone', '123456');
 
 -- --------------------------------------------------------
 
