@@ -18,7 +18,7 @@ class SellingManagement(QMainWindow):
         self.server = '127.0.0.1'
         self.db = 'minimart'
         self.username = 'root'
-        self.pwd = '27052306aA$'
+        self.pwd = ''
         self.conn = mysql.connector.connect(host=self.server, database=self.db, user=self.username, password=self.pwd)
         self.cur = self.conn.cursor()
 
