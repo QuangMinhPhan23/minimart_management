@@ -3,6 +3,15 @@
 Simulating a simplified management system for a minimart using Python, PyQt5 for GUI and MySQL for database. (See branch **PySimpleGUI-version** for PySimpleGUI as GUI)
 Minimart Management System Simulation
 
+<img width="541" height="341" alt="image" src="https://github.com/user-attachments/assets/0901ef3d-0dd8-4170-9c33-091ed53a045f" />
+
+<img width="362" height="294" alt="image" src="https://github.com/user-attachments/assets/87e97ae2-f69a-4070-a56e-414120f633f3" />
+
+<img width="865" height="633" alt="image" src="https://github.com/user-attachments/assets/34866d3a-9a49-4fee-96ee-9aaadf04c1ae" />
+
+<img width="838" height="575" alt="image" src="https://github.com/user-attachments/assets/bc3d56f7-4a24-4241-850d-6303d1106350" />
+
+<img width="992" height="642" alt="image" src="https://github.com/user-attachments/assets/2d5b91e2-3bfb-4c58-b738-ec344d6fbd77" />
 ## Description
 
 This project is a Minimart Management System Simulation built with Python, utilizing PyQt5 for the graphical user interface and MySQL for database management. It provides functionalities for managing staff, products, quotations, and selling processes in a streamlined and user-friendly manner.
